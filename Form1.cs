@@ -19,6 +19,7 @@ namespace MemoryGame
             InitializeComponent();
             InitializeGame();
         }
+
         private void Form1_Load(object sender, EventArgs e)
         {
             label1.Text = "Witaj w grze Memory!";
@@ -42,7 +43,7 @@ namespace MemoryGame
 
         private void CardButtonClick(int index)
         {
-            if (isBusy || revealed[index])
+            if (revealed[index] || isBusy)
                 return;
 
             cardButtons[index].Text = cards[index].ToString();
@@ -63,11 +64,16 @@ namespace MemoryGame
                     cardButtons[firstIndex].BackColor = Color.Green;
                     cardButtons[secondIndex].BackColor = Color.Green;
 
+                    revealed[firstIndex] = false;
+                    revealed[secondIndex] = false;
+
                     if (pairsFound == cards.Count / 2)
                     {
                         MessageBox.Show("Gratulacje! Odnalaz³eœ wszystkie pary. Koniec gry!");
                         InitializeGame();
                     }
+
+                    isBusy = false;
                 }
                 else
                 {

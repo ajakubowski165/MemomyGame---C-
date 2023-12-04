@@ -1,0 +1,16 @@
+D:\nauka\SEMESTR 5\Programowanie obiektowe\projekt\MemoryGame\obj\Debug\net8.0-windows\MemoryGame.csproj.GenerateResource.cache
+D:\nauka\SEMESTR 5\Programowanie obiektowe\projekt\MemoryGame\obj\Debug\net8.0-windows\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\nauka\SEMESTR 5\Programowanie obiektowe\projekt\MemoryGame\obj\Debug\net8.0-windows\MemoryGame.AssemblyInfoInputs.cache
+D:\nauka\SEMESTR 5\Programowanie obiektowe\projekt\MemoryGame\obj\Debug\net8.0-windows\MemoryGame.AssemblyInfo.cs
+D:\nauka\SEMESTR 5\Programowanie obiektowe\projekt\MemoryGame\obj\Debug\net8.0-windows\MemoryGame.csproj.CoreCompileInputs.cache
+D:\nauka\SEMESTR 5\Programowanie obiektowe\projekt\MemoryGame\obj\Debug\net8.0-windows\MemoryGame.Form1.resources
+D:\nauka\SEMESTR 5\Programowanie obiektowe\projekt\MemoryGame\bin\Debug\net8.0-windows\MemoryGame.exe
+D:\nauka\SEMESTR 5\Programowanie obiektowe\projekt\MemoryGame\bin\Debug\net8.0-windows\MemoryGame.deps.json
+D:\nauka\SEMESTR 5\Programowanie obiektowe\projekt\MemoryGame\bin\Debug\net8.0-windows\MemoryGame.runtimeconfig.json
+D:\nauka\SEMESTR 5\Programowanie obiektowe\projekt\MemoryGame\bin\Debug\net8.0-windows\MemoryGame.dll
+D:\nauka\SEMESTR 5\Programowanie obiektowe\projekt\MemoryGame\bin\Debug\net8.0-windows\MemoryGame.pdb
+D:\nauka\SEMESTR 5\Programowanie obiektowe\projekt\MemoryGame\obj\Debug\net8.0-windows\MemoryGame.dll
+D:\nauka\SEMESTR 5\Programowanie obiektowe\projekt\MemoryGame\obj\Debug\net8.0-windows\refint\MemoryGame.dll
+D:\nauka\SEMESTR 5\Programowanie obiektowe\projekt\MemoryGame\obj\Debug\net8.0-windows\MemoryGame.pdb
+D:\nauka\SEMESTR 5\Programowanie obiektowe\projekt\MemoryGame\obj\Debug\net8.0-windows\MemoryGame.genruntimeconfig.cache
+D:\nauka\SEMESTR 5\Programowanie obiektowe\projekt\MemoryGame\obj\Debug\net8.0-windows\ref\MemoryGame.dll
